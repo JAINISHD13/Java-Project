@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC  
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"  
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+
+
+	<definition name="index" template="/WEB-INF/jsp/index.jsp">
+	</definition>
+
+	<definition name="registration" template="/WEB-INF/jsp/Registration.jsp">
+	</definition>
+	
+	<definition name="viewCustomer" template="/WEB-INF/jsp/viewUsers.jsp">
+	</definition>
+	
+	<definition name="design" template="/WEB-INF/jsp/design.jsp">
+	</definition>
+
+	<definition name="floor" template="/WEB-INF/jsp/floor.jsp">
+	</definition>
+			
+
+</tiles-definitions>
